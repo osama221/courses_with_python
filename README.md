@@ -10,4 +10,4 @@ this repo contains an application written with python that list, add, delete cou
 
 # 4- NOSQL for NOSQL branch.    
 
-# 5- postgreSQL 
+# 5- postgreSQL.
